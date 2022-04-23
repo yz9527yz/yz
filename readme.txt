@@ -9,3 +9,6 @@ Git 3
 git 4
 
 5
+
+feature1
+greating a new branch is quick and simple
